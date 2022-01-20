@@ -12,6 +12,8 @@ An Android Application I created as a University project, just to learn how to u
 2. With camera caption:
 <br>
 
+![Screenshot_2022-01-21-00-31-48-855_com example ergasiaproject](https://user-images.githubusercontent.com/47252292/150433828-3c333561-b5f5-4140-b333-56d03ce76756.jpg)
+
 
 <br>
 
